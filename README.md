@@ -1,3 +1,3 @@
 # wow-wlk
 WA
-suooort for 335
+support for 335
